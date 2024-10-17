@@ -20,6 +20,7 @@ namespace DBMS
             SqlDataAdapter mydataAdapter = new SqlDataAdapter(sqlCommand);
             DataTable dt = new DataTable();
             mydataAdapter.Fill(dt);
+            mydb.closeConnection();
             return dt;
             // tiendat them dong nay ne
         }

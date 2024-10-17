@@ -15,7 +15,7 @@ namespace DBMS
         public DataTable layTaiKhoanTichDiem()
         {
             mydb.openConnection();
-            SqlCommand sqlCommand = new SqlCommand("SELECT * from dbo.LayTatCaTaiKhoanTichDiem()", mydb.getConnection);
+            SqlCommand sqlCommand = new SqlCommand("SELECT * from dbo.SanPham", mydb.getConnection);
 
 
 
