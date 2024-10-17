@@ -11,3 +11,17 @@ D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.exe
 D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.pdb
 D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
 D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\Users\Mun\Source\Repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.listBillNhap.resources

@@ -16,7 +16,7 @@ namespace DBMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new taikhoantichdiem());
+            Application.Run(new listProduct());
         }
     }
 }

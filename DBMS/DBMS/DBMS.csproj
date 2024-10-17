@@ -70,6 +70,12 @@
       <DependentUpon>Kho.cs</DependentUpon>
     </Compile>
     <Compile Include="khoclass.cs" />
+    <Compile Include="listBillNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listBillNhap.Designer.cs">
+      <DependentUpon>listBillNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="listProduct.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Kho.resx">
       <DependentUpon>Kho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listBillNhap.resx">
+      <DependentUpon>listBillNhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="listProduct.resx">
       <DependentUpon>listProduct.cs</DependentUpon>

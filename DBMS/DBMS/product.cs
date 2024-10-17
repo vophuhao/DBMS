@@ -18,11 +18,10 @@ namespace DBMS
             mydb.openConnection();
             SqlCommand sqlCommand = new SqlCommand("SELECT * from dbo.LayTatCaSanPham()", mydb.getConnection);
            
-          
-
             SqlDataAdapter mydataAdapter = new SqlDataAdapter(sqlCommand);
             DataTable dt = new DataTable();
             mydataAdapter.Fill(dt);
+            mydb.closeConnection();
             return dt;
         }
         
