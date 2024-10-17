@@ -11,16 +11,3 @@ D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.exe
 D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.pdb
 D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
 D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
-D:\DBMS\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
-D:\DBMS\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe
-D:\DBMS\DBMS\DBMS\DBMS\bin\Debug\DBMS.pdb
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
-D:\DBMS\DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
