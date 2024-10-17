@@ -25,7 +25,7 @@ namespace DBMS
             dataGridView1.DataSource = product.layTatCaSanPham();
             picCol = (DataGridViewImageColumn)dataGridView1.Columns[5];
             picCol.ImageLayout = DataGridViewImageCellLayout.Stretch;
-           
+           //phuhao sua ơ đây
       
         }
 
