@@ -1,0 +1,13 @@
+D:\phuhao\csdl\DBMS\DBMS\bin\Debug\DBMS.exe.config
+D:\phuhao\csdl\DBMS\DBMS\bin\Debug\DBMS.exe
+D:\phuhao\csdl\DBMS\DBMS\bin\Debug\DBMS.pdb
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.exe
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.pdb
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
