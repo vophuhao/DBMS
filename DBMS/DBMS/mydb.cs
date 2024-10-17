@@ -14,7 +14,10 @@ namespace DBMS
     {
 
         
+
             SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-LUL4FFK\SQLEXPRESS;Initial Catalog=DOAN;Integrated Security=True;Encrypt=Falserrr");
+
+            
 
             // get the connection
             public SqlConnection getConnection
